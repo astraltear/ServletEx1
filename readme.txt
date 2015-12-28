@@ -1,5 +1,5 @@
-web.xmlÀ» ÅëÇÑ  ´Ù¾çÇÑ ¼­ºí¸´ ¼¼ÆÃ¹æ¹ı
+web.xmlì„ í†µí•œ ë‹¤ì–‘í•œ ì„œë¸”ë¦¿ ì„¤ì •ë°©ë²•
 
-@WebServlet »ç¿ë¹ı 
-context-param »ç¿ë¹ı
-ServletConfig »ç¿ë¹ı
+@WebServlet ì‚¬ìš©ë²•
+context-param ì‚¬ìš©ë²•
+ServletConfig ì‚¬ìš©ë²•
