@@ -10,10 +10,10 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
 
-// web.xml ÀÇ ¼­ºí¸´ ¼³Á¤À» Á¦°ÅÇÏ°í ¾Æ·¡ÀÇ ÄÚµå¸¦ ÀÔ·ÂÇÑ´Ù. 
+//web.xml ì˜ ì„œë¸”ë¦¿ ì„¤ì •ì„ ì œê±°í•˜ê³  ì•„ë˜ì˜ ì½”ë“œë¥¼ ì…ë ¥í•œë‹¤. 
 
 @WebServlet(
-		name="helloServlet",
+		name="helloServlet", 
 		urlPatterns = {"/greeting","/salutation","/wazzup"},
 		loadOnStartup=1
 	)
